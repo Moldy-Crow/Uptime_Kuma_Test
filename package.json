@@ -150,7 +150,7 @@
         "@fortawesome/vue-fontawesome": "~3.0.0-5",
         "@playwright/test": "~1.39.0",
         "@popperjs/core": "~2.10.2",
-        "@testcontainers/hivemq": "^10.13.1",
+        "@testcontainers/hivemq": "^10.14.0",
         "@testcontainers/rabbitmq": "^10.13.2",
         "@types/bootstrap": "~5.1.9",
         "@types/node": "^20.8.6",
